@@ -1,4 +1,1172 @@
 ---
-title: Welcome to my blog
+
+<!-- saved from url=(0051)https://app.danlon.dk/helpapp/helpsystem/export.jsp -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <title>Danløn</title>
+</head>
+<body>
+<h1>Alle hjælpetekster</h1>
+<div>Der er i alt 716 tekster.</div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=967908819140">§48E (forskerordningen) (kode 08)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1730886252672">§53A-pension</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1400505123315">3F Feriekasse</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=968423500328">A-skat</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=968318662859">A-skat (Rettelser)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=974281680504">A-skat (Saldo indkomst)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=968317734656">A-skat fradrag, dage</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1318505049602">A-skat og AM-bidrag</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1465801636300">Adgang til app</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1351687613313">Adgangskoder</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1416383157319">Administratoradgang</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1429522948975">Administratorvejledning</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=967982774953">Afholdelse af ferie</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=968252045421">Afholdt afspadsering</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=983632331937">Afholdte dage</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=974809227696">Afholdte feriedage</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=968262846515">Afholdte ferietimer</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=974630708650">Aflønningsform</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1216889129718">Afmeld medarbejder overfor eIndkomst</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1449824508636">Afregningsnummer</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=982681834484">Afspadsering</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1352207435289">Afspadsering og flex</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=989866530341">Afspadsering, beløb til gode</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=989866451455">Afspadsering, timer til gode</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1007733630341">Aftale om Overførselsservice</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1351687052505">Aftaler</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=967909299656">Aktiv</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1485447236437">Aktive/Inaktive</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1475742733715">Alle videoer</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=974281606286">AM-bidrag (Saldo indkomst)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=967909641640">AM-bidragspligtig</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=974279015046">AM-indkomst (Saldo indkomst)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1352205886202">AM-pension</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1352207481342">Andet fravær</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=967904693203">Ansvarsfordeling</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1518711162807">Ansættelse af medarbejder fleksjob</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=967907771343">Ansættelsesdato</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=974629909259">Ansættelsesvilkår</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1401450370461">Antal klip</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1199544365853">Anvend eSkattekort</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1537262625567">Anvend individuel sats</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1465803016565">App registreringer</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1434290220597">API-nøgle</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1482504738476">API-secret</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1499436961985">Arbejds- og fridage</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1359554925811">Arbejdsdage med ferieoptjening i perioden</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1556704159887">Arbejdsfunktion</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1256280021372">Arbejdsfunktion (DISCO-08)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1499259137335">Arbejdskalendere</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=968423082328">Arbejdsmarkedsbidrag</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=968328106281">Arbejdsmarkedspension</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1290414992945">ATP - betaling af bidrag</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=968318454531">ATP (Rettelser)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=974281393350">ATP (Saldo indkomst)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=968424684234">ATP af sygedagpenge</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1340620409605">ATP af sygedagpenge (Rettelser)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=967908550031">ATP-ordning</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1462882629436">ATP-vejledning for arbejdsgivere</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1690198460834">Autoløn</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1512321369374">Automatisk nulindberetning</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=974281317285">B-indkomst med AM-bidrag</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=974281213551">B-indkomst uden AM-bidrag</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1455708710773">Bankdag</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1396597486609">Bankformat</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1409824709316">Barsel (Standardværdier)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1119342610063">Barselsbidrag</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1131627479891">Barselsliste</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1117698972382">Barselsordning</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1132313245715">Beløb der ikke overføres via Danløn</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1342007546890">Benyt kun trækprocent. Undlad fradrag</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=974987457094">Benyt Overførselsservice</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1571748020908">Beregn overenskomstbestemt pension af feriepenge</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1455540945647">Beskattet (Saldo, SH)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1263804513404">Besked på alle lønsedler</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1613578254789">Beskrivelse</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=968265291109">Bestyrelseshonorar</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1538120017237">Betaling</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1402041985503">Betaling for Danløn</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1010321595175">Betalingsfrist A-skat - Mindre privat virksomhed</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1010325042838">Betalingsfrist A-skat - Offentlig virksomhed</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1010315625684">Betalingsfrist A-skat - Større privat virksomhed</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1010314875065">Betalingsfrist A-skat og bidrag</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1455541545145">Betalingsfrist A-skat og bidrag (Lønafregning)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1195131174978">Betalingsfrist til SKAT, ændres til almindelig</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1195130887398">Betalingsfrist til SKAT, ændres til fremrykket</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1594980079560">Betalingsfrister feriepenge</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=982681958468">Betalingsliste</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1417691228079">Betalingsoversigt</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=968317239703">Betalt fravær</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=968265856687">Bidragsfri A-indkomst</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=974279702118">Bidragsfri A-indkomst (Saldo indkomst)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1361877488492">Billy</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1396596821243">BIC/SWIFT</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=982679945953">Bogføring, gruppe</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=982680132968">Bogføring, medarbejder</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=982679617218">Bogføring, total</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=985201098687">Bogføringsfil til regnskab</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=967909708828">Bogføringsgruppe (Medarbejder)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1409073559347">Bogføringsgruppe (Standardværdier)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1352201853363">Bogføringsgrupper</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1233738965586">Bogføringsgrupper - Løntypeoversigt</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1728020961999">Brugere</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1678980635729">Brugeroplysninger</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1655895409078">Brugerrettigheder</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1594992164007">Bruttoferiepenge til udbetaling</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1208854753843">Bruttotræk m/feriepengereduktion</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1208854450377">Bruttotræk u/feriepengereduktion</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1695818244069">Business Central</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1205234010459">CPR-nummer findes ikke i CPR-registret</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1205234089211">CPR-nummer tilhører en anden person</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=982702955109">CVR-nummer (Konto)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=967906891421">CVR-nummer (Virksomhed)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1464685250997">Danløn app</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1537861454020">Danløn Direkte FAQ</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1610719889760">Danløn HR</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1621321111869">Danløn Tilmelding</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=974387043453">Danmarks Statistik</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1641801643429">Danske Malermestre</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1512466178038">Databehandleraftale</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1613578209574">Dato - Påmindelse</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=974386475845">DA Statistik</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1438952500644">DA/LO Kompetencefonde</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1515261352245">Dimensioner</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1394101945500">Dinero</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=971618929859">Dispositionsdato</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=968267414687">Diæter</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=968267707671">Diæter udland</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1380704746772">DIS løn og DAS løn</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1613406909954">Dokumentarkiv</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1613464799948">Dokumenter - Oversigt</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1610974830742">Dokumenter og skabeloner</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1481620822824">Dynaccount</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1600690937451">Dødsfald</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1334650853362">e-Boks</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1046874042159">e-conomic</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1453967092712">e-conomic - tilknyt med token</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1234786610899">eIndkomst - fejl i det indberettede</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1703753470127">eIndkomst (Afstemning)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1210321359853">eIndkomst (Indberetninger)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=999073449944">Efterlønsmodtager</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1499945384820">EG Xena</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=974280516679">Engangsindkomst</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1246448542927">Engangslevering af bikort</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1520437926794">EU persondataforordning (GDPR)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=968252857828">Faktisk flextid</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=967989599906">Fast besked på lønseddel</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1352205583445">Faste fradrag</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1137237059539">Faste tillæg</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1734449968614">Ferie for egen regning</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1550743252340">Ferie med løn til Ingen</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1233911742900">Ferie med løn til Løbende (eget)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1233910477412">Ferie med løn til Løbende (feriekasse)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1352202483678">Ferie og SH</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1352207377244">Ferie og SH</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=967990482796">Ferie pr. år</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1275032676452">Ferieafregnet for meget - fratrædende medarbejder</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1432719522729">Ferieafregning - arbejdsmarked forlades</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=967982926031">Ferieafregning ved fratrædelse</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1432711682964">Ferieafregning ved fratrædelse - ferieafholdelse</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1244805278492">Ferieafregning ved fratrædelse - for sent</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=974303359653">Ferieberettigende løn (Saldo, Ferie uden løn)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=974302922748">Ferieberettiget løn (Saldo, Ferie med løn)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1408902127489">Feriedage pr. år (Standardværdier)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1592982387674">Feriedifference</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1606727529220">Feriedifferenceberegning</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=967990606078">Feriefridage pr. år</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1408902692311">Feriefridage pr. år (Standardværdier)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=977213795233">Feriefridage udbetalt</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1165314911499">Feriefridage, opsparing hertil via SH</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1400506246257">FerieKonto</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=971866370234">Ferieloven</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1324457519644">Ferieoptjening</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=967989937875">Ferieordning</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1408899855532">Ferieordning (Standardværdier)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=967982253937">Ferieordning: Ferie med løn</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=968063869656">Ferieordning: Ingen</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=971869411187">Ferieordning: Løbende (eget)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=967983605796">Ferieordning: Løbende (feriekasse)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1117711854437">Feriepenge (Pensionsgrundlag)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=967990156359">Feriepenge %</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=971616289687">Feriepenge % (Standardværdier)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1425909274391">Feriepenge er indberettet på forkert SE-nummer</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1593014509906">Feriepengeforpligtelse</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1437399016511">Feriepengeinfo</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1284552151947">Feriepengemodtager</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1408901075770">Feriepengemodtager (Standardværdier)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=972459045937">Ferieregnskab i dage eller timer</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=968263456468">Ferietillæg</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1379508530426">Ferietillæg (Pensionsgrundlag)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=983632640921">Ferietillæg (Rettelser)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=967990217406">Ferietillæg %</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=971616468921">Ferietillæg % (Standardværdier)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1473322776201">Ferietillæg til gode</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1181812391903">Ferietillæg ved fratrædelse</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1592484751185">Ferieåret</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=968313063171">Firmalån</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1444638046969">Focus IT</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1046791426234">Forfaldsdatoer</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1038652374546">Forkert kontonummer for medarbejder</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1307442131820">Forsikringsordning for elever/lærlinge</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1600930342918">Forskudsferie</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1147767715543">Forskudt regnskabsår</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=967907908437">Fratrædelsesdato</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=968266752750">Fratrædelsesgodtgørelse</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1717745186310">Fravær - Liste</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1613386321957">Fravær - Oversigt</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=968314018328">Fri bil</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1301385656985">Fri bil - egenbetaling</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=974277719899">Fri bil (Saldo indkomst)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1268990293518">Fri helårsbolig</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=968314418359">Fri kost og logi</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1268990804810">Fri lystbåd</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1268990914208">Fri medie-/radiolicens</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1268990698938">Fri sommerbolig</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1258962818190">Fri telefon/internet</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1473321198165">Fritvalg saldo</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1179913406493">Fritvalg udbetalt</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1179914330129">Fritvalg, opsparet</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1179914389792">Fritvalg, udbetalt</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1179905786154">Fritvalgsordning</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1179906154348">Fritvalgsordning %</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1482328469651">Fritvalgsordning oprettet ved en fejl</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1208852348238">Fritvalgsordning til pension %</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1214475196563">Fritvalgsordning ved fratrædelse</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1456510898705">Fritvalgsoversigt</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1221806004545">Frivillig ekstra trækprocent</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1643031233408">Frygt for misbrug (midlertidig spærring)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1466097555756">Funktionær med løbende ferieordning</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=971337935828">G-dage</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=989866210685">G-dage (Saldo indkomst)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=968328959484">Gage</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1114884466973">Gage m.m.</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=968319106250">Gagereduktion</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=968424922625">Gagereduktion ved ferie</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=967898460703">Genansættelse</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1209112897169">Genrekvirer skattekort</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1613578231666">Gentag - Påmindelse</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1531141408724">Godkend lønafregning, Aktuel lønafregning</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1531141526555">Godkend lønafregning, Tidligere lønafregninger</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1712675147289">Godkend registreringer fra Danløn-appen</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1456837820311">Godkendelse af Overførselsserviceansøgning</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1531378573297">Godkendelsesflow til lønkørsel</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1531123402594">Godkendere</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1657012509950">Grandhood</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=968328467296">Gruppelivspræmie</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=968252316484">Hensat til afspadsering</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1586190787576">Heraf forskudsferie</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=985934058602">Heraf udbetalt ferietillæg</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=968265598703">Honorar, bidragsfrit</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=968265459093">Honorar, bidragspligtigt</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1587048587171">HORESTA særligt løntillæg</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1235126913330">Hvad betyder Intet skattekort?</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1309438336170">Hvad er B-indkomst?</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=967905104609">Hvad er statistik?</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1160131375204">Hvad er SH - søgnehelligdagsbetaling?</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1518453323729">Hvem skal have en lønseddel?</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=967905166671">Hvem skal indsende statistik?</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=967980079046">Hvilke oplysninger skal indberettes til statistik?</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1013876291427">Hvordan bliver jeg kunde?</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=967903474640">Hvordan foretages en lønafregning i Danløn?</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=972048738156">Hvordan foretages en lønberegning?</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1380184070555">Hvordan kører jeg løn for flere perioder?</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1189496446801">Hvordan oprettes en pension?</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1297424799005">Hvordan overføres betalinger i Danløn?</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1233821282929">Hvordan overføres til regnskabsprogram?</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1038996459523">Hvordan rettes pensionen?</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=967905388453">Hvordan sender jeg oplysningerne til DA/DST?</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1137252625884">Hvordan slettes en pension?</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1099903679099">Hvorfor beregnes der ikke ATP på lønsedlen?</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1039014412434">Hvornår betales A-skat?</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1200002081786">Hvornår kommer skattekortet?</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=967905313718">Hvornår skal statistik indsendes?</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1445605692355">Hvornår træder eSkattekortet i kraft?</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1396596913523">IBAN</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1014051401117">Identifikation</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1151403567000">Individuel udbetaling af ferietillæg</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1195043305833">Indkomsttype</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1718022574156">Indlæs fra Danløn app</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1352202075154">Indlæs fra fil</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1613390308844">Indlæs fra HR</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1544544485000">Indlæs fra Integration</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1483634306861">Indlæs stamdata</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1295605932348">Indtægtsart</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1170935504115">Industriens pension</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1481038345489">Ingen mail fra Mastercard?</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1185266888874">Ingen til Ferie med løn</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1430808369812">Ingen til Løbende (feriekasse)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1656487554569">Integration</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1622475335491">Jeg ønsker at betale med klip</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=974630479181">Jobstatus</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1614155264026">Jubilæum</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=968266104484">Jubilæumsgratiale</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1113843936382">Kan fratrådte medarbejdere slettes?</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1038651829922">Kan ikke lønkøre, mangler Overførselsserviceaftale</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=968267928656">Kilometerpenge</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1151403511056">Kollektiv udbetaling af ferietillæg</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1723201681557">Kom du for sent med lønnen?</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1007024679902">Kom godt i gang</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1622556988156">Kontrakt</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=967981540062">Korrektion af feriedage/ferietimer</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1187609168446">Kundeid</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1727263514235">Kundeoversigt</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=974387205215">Kvartalsvis indberetning (Konjunkturstatistik)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1038998133229">Kør løn for samme lønperiode flere gange</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=968329285906">Kørselstilskud</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1117710698176">Kørselstilskud (Pensionsgrundlag)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1656076259387">Lad lønadministrator styre adgange</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1095331682807">Luk konto</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1336037356680">Løbende (eget) til Ferie med løn</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1235127521919">Løbende (eget) til Løbende (feriekasse)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1182852413578">Løbende (feriekasse) til Ferie med løn</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1550740968401">Løbende (feriekasse) til Ingen</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1182853383590">Løbende (feriekasse) til Løbende (eget)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1431343301366">Løbende ferieafregning</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1455546888125">Løn (til dansk konto) og pension 1 og 2</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1455547172648">Løn (til udenlandsk konto)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1352208103612">Lønafregning - Godkendelse</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1385470907754">Lønafregning - Kontrol</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1560264696414">Lønmodtagernes Feriemidler</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1455706981277">Lønperioder for forskellige medarbejdergrupper</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1623839737261">Lønperiodetype</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=971340592515">Lønperiodetyper</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=982678554625">Lønseddel</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1589288374095">Lønseddelsum</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=982679232828">Lønsedler (Lønafregning)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=982678179031">Lønsedler (Medarbejder)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1305632496136">Lønskolen / Kurser</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1244801717329">Lønsumsafgift</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1491228875587">Lønsumsoplysninger</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1275898562154">Mamut</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1200001093856">Manglende skattekort på nyoprettet medarbejder</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1673857471657">Masseopdatering</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=967909551312">Medarb.nr.</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1613385938392">Medarbejder - Fravær</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1613578185523">Medarbejder - Påmindelse</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1185529975266">Medarbejder oprettet på forkert CPR-nummer</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1462879870079">Medarbejderaktier</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1522232797829">Medarbejderdata</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1199544466913">Medarbejderen ønsker at forhøje sin trækprocent</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1618234296320">Medarbejderkladde</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1352202262156">Medarbejderstamdata</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=983803899156">Medarbejderstamkort</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1401951792608">MFD Feriekasse</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1657012442085">Mileage Book</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1665386064604">Mine data</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=967989405484">Mobiltelefon (Medarbejder)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=982743638109">Mobiltelefon (Mine data)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1200001898805">Modtaget andet skattekort end forventet</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1456507215554">Modtagne skattekort</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1675867900060">Multi-Regnskab</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=967908776500">Månedsfradrag</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1045573966487">Navision og Business Central</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1499438796611">Navn (Arbejdskalender)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1455711269297">Navn (Lønadministrator)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=967907452187">Navn (Medarbejder)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1715669804957">NemKonto</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=982681556781">Nettolønliste</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=968329692796">Normtimer</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1206008391647">Nulindberetning</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=976698409188">Ny adgangskode</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1235128765135">Ny funktion - Feriefridage og Omsorgsdage</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1628258367342">Ny kontrakt, underskrevet den</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1544166077248">Nye satser i 2025</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1038995696858">Nyt bankkontonummer for virksomheden</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1047547515995">Nyt CVR-nummer</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1613406477560">Nyt dokument</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1118915755919">Nyttige links</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1352208046033">Næste lønafregning</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1152610296878">Når banken stopper en overførsel</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1309442123993">Når en medarbejder ansættes midt i en lønperiode</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=968424061593">Om ATP</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1158139634333">Om Barsel.dk</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1131712920303">Om DA Barsel</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1235041581317">Om feriepengeforpligtelse</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1151403458743">Om ferietillæg</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1580142228494">Om forskudsferie</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1715842789109">Om nulindberetninger</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1560352637808">Om overgangsperioden</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1131357559517">Om skattekort</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1597253829998">Om skyldige feriepenge, eget</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1702546125026">Om st. bededagskompensation</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1595591457766">Omsorgsdage (Rettelser)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=967990545296">Omsorgsdage pr. år</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1473319368116">Omsorgsdage til gode</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=968329893921">Omsorgsdage udbetalt</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=967898579296">Opret ny medarbejder</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1222341719858">Opret ny virksomhed</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1189496559939">Oprettelse af arbejdsmarkedspension</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1189497333140">Oprettelse af pension 1 og 2</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1189497649727">Oprettelse af pension 3 og 4</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1728900840299">Oprettelse og redigering af brugere</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=967981342203">Optjening af feriedage</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=967982336500">Optjening af feriegodtgørelse</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1594819345608">Optjent bruttoferiepenge</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=974289154086">Optjent ferie (dage)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=974289838800">Optjent ferie (timer)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=983632888234">Optjent nettoferiepenge</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=983632228718">Optjente dage</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1552061680918">Overblik</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=974881257720">Overenskomstkode</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1732472583400">Overfør feriedage - funktionærer</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1732452244921">Overfør feriedage - timelønnede</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1228383779068">Overfør fritvalgssaldo til pension</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1464682830165">Overfør godkendte registreringer til lønkørslen</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=985078543890">Overfør skat m.m. for private virksomheder</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=985079742234">Overfør skat m.m. ved fremrykket afregning</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=974813851730">Overfør SH-saldo til feriepenge</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1233913528395">Overfør SH-saldo til fritvalg</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1228728784618">Overfør SH-saldo til pension</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1384332778055">Overfør til bank</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1352208192750">Overfør til regnskab</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1200658365088">Overførsel til en udenlandsk bank</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1234786025128">Overførselskvitteringer</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1401718231641">Overførselsomkostninger</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1352201233308">Overførselsservice</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1033480762563">Overførselsservice afviser overførsel</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1227253507244">Overførselsserviceaftale</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1038651359595">Overførselsserviceaftale - hvornår kan den bruges?</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1117710590962">Overtidstillæg (Pensionsgrundlag)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1137238095832">Pension</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=968327185343">Pension (Bank)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1187608741090">Pension (Pensionsinstitut)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1432729682449">PensionDanmark - P-nummer</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1318505201413">Pensioner</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1041692945117">Pensionsgrundlag for arbejdsmarkedspensioner</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1137240615496">Pensionsgrundlag for pensioner</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1500621858194">Pensionsindberetning mangler</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1189503074278">Pensionsinstitutter, alm. pension</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1189499349304">Pensionsinstitutter, AM-pension</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1352205725710">Periodiske fradrag</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1352205682258">Periodiske tillæg</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1352205984817">Personalegoder</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1448554201385">Personalegoder (felt 55)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1268991041569">Personalegoder der overstiger bagatelgrænsen</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1332320711284">Personalegoder, ikke omfattet af bagatelgrænse</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=968329163875">Personligt tillæg</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=968252554843">Planlagt flextid</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1194954276282">Produktionsenhed</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1450270548526">Præmien er inklusive i pensionsbidrag</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1613578117552">Påmind - Påmindelser</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1613463071995">Påmindelser - Oversigt</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1407838356818">Reducer ferieberettiget løn</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=971868733625">Reducer feriegodtgørelse</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=972051966968">Reducer gage ved ferie</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1455714593347">Reference, brugernavn (Lønadministrator)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=982743949921">Reg.nr. (Betaling for Danløn)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1537539755633">Reg.nr. (Lønadministrator)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=971339239859">Registrerings- og Kontonummer</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1014051258708">Regnskabsprogram</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1455543729187">Regnskabsprogram (Lønafregning)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1284544185456">Rejsegodtgørelse</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=974278245495">Rejsegodtgørelse (Saldo indkomst)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=980519013921">Renter af firmalån</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=967983237453">Restferie - overfør ferie eller udbetal feriepenge</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1165409581287">Ret af A-skat</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1039682748075">Ret A-skat af feriepenge</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1427360722412">Ret A-skat af SH</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1600869924211">Ret forskudsferie</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1395390922361">Ret optjente feriedage</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1326454400381">Rettelser</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1101137957628">Revilution</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1039011931503">Rykker for manglende betaling</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1352202806283">Saldo ferie og SH</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1352202851885">Saldo indkomst</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=968312730015">Saldofradrag</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=968317649062">Saldorettelser, ferie</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1515264422603">Samlet indtastning</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1304586707016">Sampension</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1533196764384">Samtidige godkendere</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1560354048018">Samtidighedsferien</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=974277115462">Send e-mail om nettoløn</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=974276789318">Send SMS meddelelse om nettoløn</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1613578151114">Send til - Påmindelse</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=967990265484">SH %</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1409072357333">SH og fritvalg (Standardværdier)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=968263956515">SH-hensat</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1230010662382">SH-ordning oprettet ved en fejl</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1456510847577">SH-oversigt</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1082051378756">SH-saldo beskattes ved fratrædelse</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=968263753703">SH-udbetaling</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1622557137917">Skabelon</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1352202566612">Skattekort</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1593014700807">Skyldige feriepenge, eget</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1600872825382">Skyldige forskudsferiedage</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1268739439503">SKAT rykker for betaling</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1268823208998">SKAT rykker for indberetning til eIndkomst</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1637144835466">Slet HR dokumenter</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=967898194281">Slet medarbejder</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1216823640189">Slet virksomhed</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1695818102613">Sprog på lønseddel</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1643033953310">Spær/luk aftale</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1700127163527">St. bededagskompensation</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1701962733135">St. bededagskompensation opsparet/udbetalt</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1701961100222">St. bededagskompensation saldo</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1701962017369">St. bededagskompensation udbetalt</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1701963643936">St. bededagskompensation, rettelser</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1728020304806">Stamdata</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1352201368459">Standardværdier</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1613398031005">Start- og slutdato - Fravær</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1352201997150">Statistik</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1194955025902">Status eIndkomst</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1127379664433">Stellar</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1151581764187">Stop/ændring af automatisk overførsel</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1095861150474">SummaSummarum</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1326449402992">Sundhedsforsikring</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1304587263372">Sundhedsordning hos PensionDanmark</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1352207321656">Sygdom</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=968315310937">Sygedagpenge</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=967983670875">Sygeferiegodtgørelse</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=968316967796">Sygeferiepenge</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=968315569140">Sygeløn</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1352207245501">Særlige tillæg</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1568812396298">Særligt løntillæg %</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1038650616122">Sådan beregnes feriedage</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1255513268217">Sådan overfører du til dit regnskabsprogram</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=968265117203">Tantieme</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1500301691091">Tekster på kontoudtog</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1352201523065">Teksttilpasninger</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1533215316333">Telefonsupport</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1465560688998">Tidligere lønafregninger</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=967904236656">Tidsfrister</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1370953592796">Tilbagefør en medarbejders løn (gage)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1039678218006">Tilbagefør en medarbejders løn (timelønnet)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1435753243793">Tilbagefør ferietillæg</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1723736331099">Tilbagefør løn</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1664197252092">Tilbageførsel</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1594995498008">Tildel nye pr.</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1465210785830">Tillad registrering af fravær</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1622622758255">Tillad registrering af HR fraværstyper</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1465210810644">Tillad registrering af kørsel</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1465210834377">Tillad registrering af tid</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1712673417790">Tillad registrering af tillæg</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1712673483897">Tillad registrering af udlæg</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1717401801528">Tilladte registreringer i Danløn app</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1039680172993">Tillæg, ej ferieberettiget</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1216889475529">Tilmeld medarbejder overfor eIndkomst</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=967894647296">Timeløn</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1352207192809">Timeløn m.m.</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1693305057051">TIN</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1663581976492">To-faktor autentificering</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=967908654640">Trækprocent</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1613468832572">Type - Påmindelse</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1710330441602">Udbetal ferietillæg automatisk i maj og august</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=971619854953">Udbetal ferietillæg saldo</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1710489778793">Udbetal ferietillæg ved fratrædelse</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1179914183484">Udbetal saldo på fritvalgsordning</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1701938955252">Udbetal st. bededagskompensation automatisk</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1701950473163">Udbetal st. bededagskompensation saldo</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1723457666449">Udbetal SH ved fratrædelse</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=971620071312">Udbetal SH-saldo</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1304589414115">Udbetaling af ferie under barsel/orlov</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1732721530505">Udbetaling af restferie - funktionærer</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1732391049919">Udbetaling af restferie - timelønnede</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=989918630510">Udbetalt (Saldo, SH)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=968268061296">Udlæg</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1038652697285">Udskrift af lister fra afsluttede perioder</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1465214966779">Udskrifter</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1465288428658">Udskrifter</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1465558667203">Udskrifter</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1465563291955">Udskrifter</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1598002020261">Udskyd ferieafholdelse</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=968329047656">Ugeløn/14-dagesløn</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1462876134350">Ulykkesforsikring</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=985165337750">Underskriftskode</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1485767801890">Uniconta</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1643031521995">Virksomheden ophører</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1352201043065">Virksomhedens stamdata</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1255431525969">Winfinans</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1134120885559">WinKompas</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1657012485467">Workfeed</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1132229640333">Ændring af betalingsfrist (A-skat og AM-bidrag)</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1456915322569">Ændring af ferieordning</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=967898342546">Ændring af lønperiodetype på medarbejderen</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1207903064818">Ønske om ændring</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1643031351366">Ønsker at oprette min virksomhed under en ny konto</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1199543934425">Ønsket skattekorttype</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1040110554663">Årsafslutning</a></div>
+
+<div><a href="https://app.danlon.dk/helpapp/helpsystem/helptext.jsp?id=1613395204558">Årsag - Fravær</a></div>
+
+
+
+
+</body></html>
 ---
 
