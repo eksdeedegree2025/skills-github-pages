@@ -1,3 +1,4 @@
 ---
-I am a giraf
+layout: default
+title: "My Home Page"
 ---
